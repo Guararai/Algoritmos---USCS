@@ -1,1 +1,1 @@
-# Algoritmos---USCS
+# Algoritmos - USCS
